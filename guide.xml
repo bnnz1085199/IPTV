@@ -1,0 +1,893 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="01 香港開電視 *">
+    <display-name lang="zh">01 香港開電視 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="02 香港國際財經台 *">
+    <display-name lang="zh">02 香港國際財經台 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="108 財經資訊台 *">
+    <display-name lang="zh">108 財經資訊台 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="109 新聞台 *">
+    <display-name lang="zh">109 新聞台 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="110 直播新聞台 *">
+    <display-name lang="zh">110 直播新聞台 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="201 有線電影台 *">
+    <display-name lang="zh">201 有線電影台 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="301 綜合娛樂台 *">
+    <display-name lang="zh">301 綜合娛樂台 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="601 高清體育台 *">
+    <display-name lang="zh">601 高清體育台 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="602 Sports Plus 1 *">
+    <display-name lang="zh">602 Sports Plus 1 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="603 高清603台 *">
+    <display-name lang="zh">603 高清603台 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="604 Sports Plus 2 *">
+    <display-name lang="zh">604 Sports Plus 2 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="605 Sports Plus 3 *">
+    <display-name lang="zh">605 Sports Plus 3 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="618 有線18台">
+    <display-name lang="zh">618 有線18台</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="661 有線體育台">
+    <display-name lang="zh">661 有線體育台</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="662 Sports Plus 1">
+    <display-name lang="zh">662 Sports Plus 1</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="664 Sports Plus 2">
+    <display-name lang="zh">664 Sports Plus 2</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="665 Sports Plus 3">
+    <display-name lang="zh">665 Sports Plus 3</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="668 賽馬1台">
+    <display-name lang="zh">668 賽馬1台</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="669 賽馬2台">
+    <display-name lang="zh">669 賽馬2台</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="dummy">
+    <display-name lang="en">dummy</display-name>
+    <url>http://www.merge-xmltv</url>
+  </channel>
+  <programme start="20220124060000 +0800" stop="20220124063000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124063000 +0800" stop="20220124070000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124070000 +0800" stop="20220124073000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220124073000 +0800" stop="20220124080000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220124080000 +0800" stop="20220124083000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220124083000 +0800" stop="20220124090000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220124090000 +0800" stop="20220124100000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220124100000 +0800" stop="20220124101500 +0800" channel="01 香港開電視 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220124101500 +0800" stop="20220124102200 +0800" channel="01 香港開電視 *">
+    <title lang="zh">灣區直送</title>
+  </programme>
+  <programme start="20220124102200 +0800" stop="20220124103000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220124103000 +0800" stop="20220124110000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">窩輪攻略</title>
+  </programme>
+  <programme start="20220124110000 +0800" stop="20220124113000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">寶可夢超世代</title>
+  </programme>
+  <programme start="20220124113000 +0800" stop="20220124115500 +0800" channel="01 香港開電視 *">
+    <title lang="zh">信樂的喜美子 [第57集]</title>
+  </programme>
+  <programme start="20220124115500 +0800" stop="20220124120000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+  </programme>
+  <programme start="20220124120000 +0800" stop="20220124123000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">90後玩樂台灣</title>
+  </programme>
+  <programme start="20220124123000 +0800" stop="20220124130000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124130000 +0800" stop="20220124140000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220124140000 +0800" stop="20220124141500 +0800" channel="01 香港開電視 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220124141500 +0800" stop="20220124142200 +0800" channel="01 香港開電視 *">
+    <title lang="zh">灣區直送</title>
+  </programme>
+  <programme start="20220124142200 +0800" stop="20220124143000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220124143000 +0800" stop="20220124150000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">一期一匯</title>
+  </programme>
+  <programme start="20220124150000 +0800" stop="20220124160000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">開封府傳奇 [第47集]</title>
+  </programme>
+  <programme start="20220124160000 +0800" stop="20220124170000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220124170000 +0800" stop="20220124173000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">細路開電視</title>
+  </programme>
+  <programme start="20220124173000 +0800" stop="20220124180000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">熊出沒之冬日樂翻天</title>
+  </programme>
+  <programme start="20220124180000 +0800" stop="20220124183000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">聲東擊西</title>
+  </programme>
+  <programme start="20220124183000 +0800" stop="20220124190000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">我世上最漂亮的女兒 [第76集]</title>
+  </programme>
+  <programme start="20220124190000 +0800" stop="20220124195000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">開在新聞最前線</title>
+  </programme>
+  <programme start="20220124195000 +0800" stop="20220124200000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220124200000 +0800" stop="20220124202500 +0800" channel="01 香港開電視 *">
+    <title lang="zh">信樂的喜美子 [第58集]</title>
+  </programme>
+  <programme start="20220124202500 +0800" stop="20220124203000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+  </programme>
+  <programme start="20220124203000 +0800" stop="20220124210000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">30分鐘大放餸</title>
+  </programme>
+  <programme start="20220124210000 +0800" stop="20220124212500 +0800" channel="01 香港開電視 *">
+    <title lang="zh">日本命力呈獻:Fit 開有條路</title>
+  </programme>
+  <programme start="20220124212500 +0800" stop="20220124213000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">日日有頭條</title>
+  </programme>
+  <programme start="20220124213000 +0800" stop="20220124223000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">琉璃 [第41集]</title>
+  </programme>
+  <programme start="20220124223000 +0800" stop="20220124230000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">世界零食開倉戰</title>
+  </programme>
+  <programme start="20220124230000 +0800" stop="20220124234500 +0800" channel="01 香港開電視 *">
+    <title lang="zh">十一點最前線</title>
+  </programme>
+  <programme start="20220124234500 +0800" stop="20220125000000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+  </programme>
+  <programme start="20220124060000 +0800" stop="20220124070000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220124070000 +0800" stop="20220124080000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">CGTN 時段</title>
+  </programme>
+  <programme start="20220124080000 +0800" stop="20220124090000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">CGTN 時段</title>
+  </programme>
+  <programme start="20220124090000 +0800" stop="20220124100000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220124100000 +0800" stop="20220124103000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">財經視界</title>
+  </programme>
+  <programme start="20220124103000 +0800" stop="20220124113000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">投資朋友圈</title>
+  </programme>
+  <programme start="20220124113000 +0800" stop="20220124123000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">垃圾的秘密世界</title>
+  </programme>
+  <programme start="20220124123000 +0800" stop="20220124130000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220124130000 +0800" stop="20220124140000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220124140000 +0800" stop="20220124143000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">財經視界</title>
+  </programme>
+  <programme start="20220124143000 +0800" stop="20220124153000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">投資朋友圈</title>
+  </programme>
+  <programme start="20220124153000 +0800" stop="20220124160000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">財經視界</title>
+  </programme>
+  <programme start="20220124160000 +0800" stop="20220124170000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220124170000 +0800" stop="20220124173000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">獅子座野生動物護林員</title>
+  </programme>
+  <programme start="20220124173000 +0800" stop="20220124180000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">吱吱聲</title>
+  </programme>
+  <programme start="20220124180000 +0800" stop="20220124190000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220124190000 +0800" stop="20220124200000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220124200000 +0800" stop="20220124202500 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">主要新聞</title>
+  </programme>
+  <programme start="20220124202500 +0800" stop="20220124203000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">當年今日</title>
+  </programme>
+  <programme start="20220124203000 +0800" stop="20220124210000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220124210000 +0800" stop="20220124220000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220124220000 +0800" stop="20220124230000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220124230000 +0800" stop="20220124232500 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">晚間新聞</title>
+  </programme>
+  <programme start="20220124232500 +0800" stop="20220124233000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">當年今日</title>
+  </programme>
+  <programme start="20220124233000 +0800" stop="20220125000000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220124060000 +0800" stop="20220124063000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124063000 +0800" stop="20220124070000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124070000 +0800" stop="20220124073000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220124073000 +0800" stop="20220124080000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220124080000 +0800" stop="20220124083000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220124083000 +0800" stop="20220124090000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220124090000 +0800" stop="20220124100000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220124100000 +0800" stop="20220124101500 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220124101500 +0800" stop="20220124102200 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">灣區直送</title>
+  </programme>
+  <programme start="20220124102200 +0800" stop="20220124103000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220124103000 +0800" stop="20220124110000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">窩輪攻略</title>
+  </programme>
+  <programme start="20220124110000 +0800" stop="20220124113000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124113000 +0800" stop="20220124120000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124120000 +0800" stop="20220124123000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124123000 +0800" stop="20220124130000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124130000 +0800" stop="20220124140000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220124140000 +0800" stop="20220124141500 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220124141500 +0800" stop="20220124142200 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">灣區直送</title>
+  </programme>
+  <programme start="20220124142200 +0800" stop="20220124143000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220124143000 +0800" stop="20220124150000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">一期一匯</title>
+  </programme>
+  <programme start="20220124150000 +0800" stop="20220124153000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124153000 +0800" stop="20220124160000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124160000 +0800" stop="20220124170000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220124170000 +0800" stop="20220124173000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">大行報告</title>
+  </programme>
+  <programme start="20220124173000 +0800" stop="20220124180000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">一期一匯</title>
+  </programme>
+  <programme start="20220124180000 +0800" stop="20220124190000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220124190000 +0800" stop="20220124195000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">開在新聞最前線</title>
+  </programme>
+  <programme start="20220124195000 +0800" stop="20220124200000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220124200000 +0800" stop="20220124201500 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線財經</title>
+  </programme>
+  <programme start="20220124201500 +0800" stop="20220124202200 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">灣區直送</title>
+  </programme>
+  <programme start="20220124202200 +0800" stop="20220124203000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220124203000 +0800" stop="20220124210000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">一期一匯</title>
+  </programme>
+  <programme start="20220124210000 +0800" stop="20220124220000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220124220000 +0800" stop="20220124221500 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線財經</title>
+  </programme>
+  <programme start="20220124221500 +0800" stop="20220124222200 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">灣區直送</title>
+  </programme>
+  <programme start="20220124222200 +0800" stop="20220124223000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220124223000 +0800" stop="20220124230000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">華爾街速遞</title>
+  </programme>
+  <programme start="20220124230000 +0800" stop="20220124233000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">大行報告</title>
+  </programme>
+  <programme start="20220124233000 +0800" stop="20220125000000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">一期一匯</title>
+  </programme>
+  <programme start="20220124060000 +0800" stop="20220124063000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124063000 +0800" stop="20220124070000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124070000 +0800" stop="20220124073000 +0800" channel="109 新聞台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220124073000 +0800" stop="20220124080000 +0800" channel="109 新聞台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220124080000 +0800" stop="20220124083000 +0800" channel="109 新聞台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220124083000 +0800" stop="20220124090000 +0800" channel="109 新聞台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220124090000 +0800" stop="20220124093000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124093000 +0800" stop="20220124100000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124100000 +0800" stop="20220124103000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124103000 +0800" stop="20220124110000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124110000 +0800" stop="20220124113000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124113000 +0800" stop="20220124120000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124120000 +0800" stop="20220124123000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124123000 +0800" stop="20220124130000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124130000 +0800" stop="20220124133000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124133000 +0800" stop="20220124140000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124140000 +0800" stop="20220124143000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124143000 +0800" stop="20220124150000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124150000 +0800" stop="20220124153000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124153000 +0800" stop="20220124160000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124160000 +0800" stop="20220124163000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124163000 +0800" stop="20220124170000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124170000 +0800" stop="20220124173000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124173000 +0800" stop="20220124180000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124180000 +0800" stop="20220124183000 +0800" channel="109 新聞台 *">
+    <title lang="zh">六點新聞報道</title>
+  </programme>
+  <programme start="20220124183000 +0800" stop="20220124190000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124190000 +0800" stop="20220124195000 +0800" channel="109 新聞台 *">
+    <title lang="zh">開在新聞最前線</title>
+  </programme>
+  <programme start="20220124195000 +0800" stop="20220124200000 +0800" channel="109 新聞台 *">
+    <title lang="zh">中原地產特約：每日樓市</title>
+  </programme>
+  <programme start="20220124200000 +0800" stop="20220124203000 +0800" channel="109 新聞台 *">
+    <title lang="zh">國際最前線</title>
+  </programme>
+  <programme start="20220124203000 +0800" stop="20220124210000 +0800" channel="109 新聞台 *">
+    <title lang="zh">國際最前線</title>
+  </programme>
+  <programme start="20220124210000 +0800" stop="20220124213000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124213000 +0800" stop="20220124220000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線中國組</title>
+  </programme>
+  <programme start="20220124220000 +0800" stop="20220124223000 +0800" channel="109 新聞台 *">
+    <title lang="zh">國際最前線</title>
+  </programme>
+  <programme start="20220124223000 +0800" stop="20220124230000 +0800" channel="109 新聞台 *">
+    <title lang="zh">國際最前線</title>
+  </programme>
+  <programme start="20220124230000 +0800" stop="20220124234500 +0800" channel="109 新聞台 *">
+    <title lang="zh">十一點最前線</title>
+  </programme>
+  <programme start="20220124234500 +0800" stop="20220125000000 +0800" channel="109 新聞台 *">
+    <title lang="zh">每日樓市及新聞簡訊</title>
+  </programme>
+  <programme start="20220124080000 +0800" stop="20220124120000 +0800" channel="110 直播新聞台 *">
+    <title lang="zh">直播新聞::最快最新</title>
+  </programme>
+  <programme start="20220124120000 +0800" stop="20220124160000 +0800" channel="110 直播新聞台 *">
+    <title lang="zh">直播新聞::最快最新</title>
+  </programme>
+  <programme start="20220124160000 +0800" stop="20220124200000 +0800" channel="110 直播新聞台 *">
+    <title lang="zh">直播新聞::最快最新</title>
+  </programme>
+  <programme start="20220124200000 +0800" stop="20220125000000 +0800" channel="110 直播新聞台 *">
+    <title lang="zh">直播新聞::最快最新</title>
+  </programme>
+  <programme start="20220124072000 +0800" stop="20220124090500 +0800" channel="201 有線電影台 *">
+    <title lang="zh">有你冇你</title>
+  </programme>
+  <programme start="20220124090500 +0800" stop="20220124105500 +0800" channel="201 有線電影台 *">
+    <title lang="zh">寶貝當家</title>
+  </programme>
+  <programme start="20220124105500 +0800" stop="20220124125000 +0800" channel="201 有線電影台 *">
+    <title lang="zh">耶路撒冷的女兒</title>
+  </programme>
+  <programme start="20220124125000 +0800" stop="20220124144500 +0800" channel="201 有線電影台 *">
+    <title lang="zh">天堂</title>
+  </programme>
+  <programme start="20220124144500 +0800" stop="20220124165500 +0800" channel="201 有線電影台 *">
+    <title lang="zh">三少爺的劍</title>
+  </programme>
+  <programme start="20220124165500 +0800" stop="20220124183500 +0800" channel="201 有線電影台 *">
+    <title lang="zh">東方老虎</title>
+  </programme>
+  <programme start="20220124183500 +0800" stop="20220124203500 +0800" channel="201 有線電影台 *">
+    <title lang="zh">驚心破</title>
+  </programme>
+  <programme start="20220124203500 +0800" stop="20220124220000 +0800" channel="201 有線電影台 *">
+    <title lang="zh">怪談</title>
+  </programme>
+  <programme start="20220124220000 +0800" stop="20220125004500 +0800" channel="201 有線電影台 *">
+    <title lang="zh">末路車神</title>
+  </programme>
+  <programme start="20220124060000 +0800" stop="20220124070000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">走在花道上</title>
+  </programme>
+  <programme start="20220124070000 +0800" stop="20220124080000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">走在花道上</title>
+  </programme>
+  <programme start="20220124080000 +0800" stop="20220124083000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220124083000 +0800" stop="20220124090000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220124090000 +0800" stop="20220124100000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">大決戰</title>
+  </programme>
+  <programme start="20220124100000 +0800" stop="20220124110000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">新封神演義</title>
+  </programme>
+  <programme start="20220124110000 +0800" stop="20220124113000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">蓋世尋寶</title>
+  </programme>
+  <programme start="20220124113000 +0800" stop="20220124120000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">旅遊達人滯遊香港</title>
+  </programme>
+  <programme start="20220124120000 +0800" stop="20220124130000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">暖暖黃昏下</title>
+  </programme>
+  <programme start="20220124130000 +0800" stop="20220124140000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">警視廳搜查一課長 3</title>
+  </programme>
+  <programme start="20220124140000 +0800" stop="20220124143000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">守護香港的故事 II</title>
+  </programme>
+  <programme start="20220124143000 +0800" stop="20220124150000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">台灣絕美餐廳</title>
+  </programme>
+  <programme start="20220124150000 +0800" stop="20220124160000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">大決戰</title>
+  </programme>
+  <programme start="20220124160000 +0800" stop="20220124170000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">新封神演義</title>
+  </programme>
+  <programme start="20220124170000 +0800" stop="20220124173000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">大行報告</title>
+  </programme>
+  <programme start="20220124173000 +0800" stop="20220124180000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">一期一匯</title>
+  </programme>
+  <programme start="20220124180000 +0800" stop="20220124183000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">六點新聞報道</title>
+  </programme>
+  <programme start="20220124183000 +0800" stop="20220124190000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124190000 +0800" stop="20220124200000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">暖暖黃昏下</title>
+  </programme>
+  <programme start="20220124200000 +0800" stop="20220124201500 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">有線財經</title>
+  </programme>
+  <programme start="20220124201500 +0800" stop="20220124202200 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">灣區直送</title>
+  </programme>
+  <programme start="20220124202200 +0800" stop="20220124203000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220124203000 +0800" stop="20220124213000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">女人的戰爭</title>
+  </programme>
+  <programme start="20220124213000 +0800" stop="20220124214500 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">有線中國組</title>
+  </programme>
+  <programme start="20220124214500 +0800" stop="20220124220000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220124220000 +0800" stop="20220124221500 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+  </programme>
+  <programme start="20220124221500 +0800" stop="20220124223000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+  </programme>
+  <programme start="20220124223000 +0800" stop="20220124233000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">大決戰</title>
+  </programme>
+  <programme start="20220124233000 +0800" stop="20220125000000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">台灣絕美餐廳</title>
+  </programme>
+  <programme start="20220124060000 +0800" stop="20220124080000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">中國職業籃球聯賽 北京 對 福建 (48)</title>
+  </programme>
+  <programme start="20220124080000 +0800" stop="20220124083000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">英格蘭聯賽盃最精彩(8)</title>
+  </programme>
+  <programme start="20220124083000 +0800" stop="20220124103000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">英格蘭冠軍聯賽 伯明翰 對 班士利 (68)</title>
+  </programme>
+  <programme start="20220124103000 +0800" stop="20220124153000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">世界羽毛球錦標賽 (Day7/Part1)</title>
+  </programme>
+  <programme start="20220124153000 +0800" stop="20220124173000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">德國甲組聯賽 萊比錫 對 禾夫斯堡 (40)</title>
+  </programme>
+  <programme start="20220124173000 +0800" stop="20220124193000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">國際七人欖球賽馬拉加站 (1)</title>
+  </programme>
+  <programme start="20220124193000 +0800" stop="20220124213000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">中國職業籃球聯賽 浙江 對 深圳 (49)</title>
+  </programme>
+  <programme start="20220124213000 +0800" stop="20220124220000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">英格蘭聯賽盃最精彩(8)</title>
+  </programme>
+  <programme start="20220124220000 +0800" stop="20220124223000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">愛．體育 (766)</title>
+  </programme>
+  <programme start="20220124223000 +0800" stop="20220124233000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">德甲最精彩(20)</title>
+  </programme>
+  <programme start="20220124233000 +0800" stop="20220125000000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">英格蘭聯賽盃最精彩(8)</title>
+  </programme>
+  <programme start="20220124080000 +0800" stop="20220124120000 +0800" channel="602 Sports Plus 1 *">
+    <title lang="zh">由於節目台未能提供節目表:敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124120000 +0800" stop="20220124160000 +0800" channel="602 Sports Plus 1 *">
+    <title lang="zh">由於節目台未能提供節目表:敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124160000 +0800" stop="20220124200000 +0800" channel="602 Sports Plus 1 *">
+    <title lang="zh">由於節目台未能提供節目表:敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124200000 +0800" stop="20220125000000 +0800" channel="602 Sports Plus 1 *">
+    <title lang="zh">由於節目台未能提供節目表:敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124060000 +0800" stop="20220124061500 +0800" channel="603 高清603台 *">
+    <title lang="zh">Emily賽馬世界 - 田泰安</title>
+  </programme>
+  <programme start="20220124061500 +0800" stop="20220124074500 +0800" channel="603 高清603台 *">
+    <title lang="zh">贏馬檔案</title>
+  </programme>
+  <programme start="20220124074500 +0800" stop="20220124080000 +0800" channel="603 高清603台 *">
+    <title lang="zh">人氣馬場 馬博文</title>
+  </programme>
+  <programme start="20220124080000 +0800" stop="20220124093000 +0800" channel="603 高清603台 *">
+    <title lang="zh">贏馬檔案</title>
+  </programme>
+  <programme start="20220124093000 +0800" stop="20220124094500 +0800" channel="603 高清603台 *">
+    <title lang="zh">Emily賽馬世界 - 田泰安</title>
+  </programme>
+  <programme start="20220124094500 +0800" stop="20220124111500 +0800" channel="603 高清603台 *">
+    <title lang="zh">賽後噏Day</title>
+  </programme>
+  <programme start="20220124111500 +0800" stop="20220124113000 +0800" channel="603 高清603台 *">
+    <title lang="zh">人氣馬場 馬博文</title>
+  </programme>
+  <programme start="20220124113000 +0800" stop="20220124130000 +0800" channel="603 高清603台 *">
+    <title lang="zh">贏馬檔案</title>
+  </programme>
+  <programme start="20220124130000 +0800" stop="20220124143000 +0800" channel="603 高清603台 *">
+    <title lang="zh">賽後噏Day</title>
+  </programme>
+  <programme start="20220124143000 +0800" stop="20220124150000 +0800" channel="603 高清603台 *">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220124150000 +0800" stop="20220124163000 +0800" channel="603 高清603台 *">
+    <title lang="zh">贏馬檔案</title>
+  </programme>
+  <programme start="20220124163000 +0800" stop="20220124170000 +0800" channel="603 高清603台 *">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220124170000 +0800" stop="20220124183000 +0800" channel="603 高清603台 *">
+    <title lang="zh">贏馬檔案</title>
+  </programme>
+  <programme start="20220124183000 +0800" stop="20220124193000 +0800" channel="603 高清603台 *">
+    <title lang="zh">晨操逐格睇</title>
+  </programme>
+  <programme start="20220124193000 +0800" stop="20220124194500 +0800" channel="603 高清603台 *">
+    <title lang="zh">Emily賽馬世界 - 田泰安</title>
+  </programme>
+  <programme start="20220124194500 +0800" stop="20220124200000 +0800" channel="603 高清603台 *">
+    <title lang="zh">Emily賽馬世界 - 馬興文</title>
+  </programme>
+  <programme start="20220124200000 +0800" stop="20220124210000 +0800" channel="603 高清603台 *">
+    <title lang="zh">睇片做功課</title>
+  </programme>
+  <programme start="20220124210000 +0800" stop="20220124211500 +0800" channel="603 高清603台 *">
+    <title lang="zh">Emily賽馬世界 - 馬興文</title>
+  </programme>
+  <programme start="20220124211500 +0800" stop="20220124213000 +0800" channel="603 高清603台 *">
+    <title lang="zh">賽事chat一Track</title>
+  </programme>
+  <programme start="20220124213000 +0800" stop="20220124221500 +0800" channel="603 高清603台 *">
+    <title lang="zh">東方棕泉特約: 我要做大戶</title>
+  </programme>
+  <programme start="20220124221500 +0800" stop="20220124223000 +0800" channel="603 高清603台 *">
+    <title lang="zh">Emily賽馬世界 - 馬興文</title>
+  </programme>
+  <programme start="20220124223000 +0800" stop="20220124230000 +0800" channel="603 高清603台 *">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220124230000 +0800" stop="20220125000000 +0800" channel="603 高清603台 *">
+    <title lang="zh">睇片做功課</title>
+  </programme>
+  <programme start="20220124080000 +0800" stop="20220124120000 +0800" channel="604 Sports Plus 2 *">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124120000 +0800" stop="20220124160000 +0800" channel="604 Sports Plus 2 *">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124160000 +0800" stop="20220124200000 +0800" channel="604 Sports Plus 2 *">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124200000 +0800" stop="20220125000000 +0800" channel="604 Sports Plus 2 *">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124080000 +0800" stop="20220124120000 +0800" channel="605 Sports Plus 3 *">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124120000 +0800" stop="20220124160000 +0800" channel="605 Sports Plus 3 *">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124160000 +0800" stop="20220124200000 +0800" channel="605 Sports Plus 3 *">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124200000 +0800" stop="20220125000000 +0800" channel="605 Sports Plus 3 *">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124060000 +0800" stop="20220124073000 +0800" channel="618 有線18台">
+    <title lang="zh">贏馬檔案</title>
+  </programme>
+  <programme start="20220124073000 +0800" stop="20220124090000 +0800" channel="618 有線18台">
+    <title lang="zh">賽後噏Day</title>
+  </programme>
+  <programme start="20220124090000 +0800" stop="20220124123000 +0800" channel="618 有線18台">
+    <title lang="zh">金融時段</title>
+  </programme>
+  <programme start="20220124123000 +0800" stop="20220124130000 +0800" channel="618 有線18台">
+    <title lang="zh">金融時段</title>
+  </programme>
+  <programme start="20220124130000 +0800" stop="20220124163000 +0800" channel="618 有線18台">
+    <title lang="zh">金融時段</title>
+  </programme>
+  <programme start="20220124163000 +0800" stop="20220124170000 +0800" channel="618 有線18台">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220124170000 +0800" stop="20220124183000 +0800" channel="618 有線18台">
+    <title lang="zh">贏馬檔案</title>
+  </programme>
+  <programme start="20220124183000 +0800" stop="20220124193000 +0800" channel="618 有線18台">
+    <title lang="zh">晨操逐格睇</title>
+  </programme>
+  <programme start="20220124193000 +0800" stop="20220124194500 +0800" channel="618 有線18台">
+    <title lang="zh">Emily賽馬世界 - 田泰安</title>
+  </programme>
+  <programme start="20220124194500 +0800" stop="20220124200000 +0800" channel="618 有線18台">
+    <title lang="zh">Emily賽馬世界 - 馬興文</title>
+  </programme>
+  <programme start="20220124200000 +0800" stop="20220124210000 +0800" channel="618 有線18台">
+    <title lang="zh">睇片做功課</title>
+  </programme>
+  <programme start="20220124210000 +0800" stop="20220124211500 +0800" channel="618 有線18台">
+    <title lang="zh">Emily賽馬世界 - 馬興文</title>
+  </programme>
+  <programme start="20220124211500 +0800" stop="20220124213000 +0800" channel="618 有線18台">
+    <title lang="zh">賽事chat一Track</title>
+  </programme>
+  <programme start="20220124213000 +0800" stop="20220124221500 +0800" channel="618 有線18台">
+    <title lang="zh">東方棕泉特約: 我要做大戶</title>
+  </programme>
+  <programme start="20220124221500 +0800" stop="20220124224500 +0800" channel="618 有線18台">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220124224500 +0800" stop="20220124230000 +0800" channel="618 有線18台">
+    <title lang="zh">賽事chat一Track</title>
+  </programme>
+  <programme start="20220124230000 +0800" stop="20220125000000 +0800" channel="618 有線18台">
+    <title lang="zh">睇片做功課</title>
+  </programme>
+  <programme start="20220124060000 +0800" stop="20220124080000 +0800" channel="661 有線體育台">
+    <title lang="zh">中國職業籃球聯賽 北京 對 福建 (48)</title>
+  </programme>
+  <programme start="20220124080000 +0800" stop="20220124083000 +0800" channel="661 有線體育台">
+    <title lang="zh">英格蘭聯賽盃最精彩(8)</title>
+  </programme>
+  <programme start="20220124083000 +0800" stop="20220124103000 +0800" channel="661 有線體育台">
+    <title lang="zh">英格蘭冠軍聯賽 伯明翰 對 班士利 (68)</title>
+  </programme>
+  <programme start="20220124103000 +0800" stop="20220124153000 +0800" channel="661 有線體育台">
+    <title lang="zh">世界羽毛球錦標賽 (Day7/Part1)</title>
+  </programme>
+  <programme start="20220124153000 +0800" stop="20220124173000 +0800" channel="661 有線體育台">
+    <title lang="zh">德國甲組聯賽 萊比錫 對 禾夫斯堡 (40)</title>
+  </programme>
+  <programme start="20220124173000 +0800" stop="20220124193000 +0800" channel="661 有線體育台">
+    <title lang="zh">國際七人欖球賽馬拉加站 (1)</title>
+  </programme>
+  <programme start="20220124193000 +0800" stop="20220124213000 +0800" channel="661 有線體育台">
+    <title lang="zh">中國職業籃球聯賽 浙江 對 深圳 (49)</title>
+  </programme>
+  <programme start="20220124213000 +0800" stop="20220124220000 +0800" channel="661 有線體育台">
+    <title lang="zh">英格蘭聯賽盃最精彩(8)</title>
+  </programme>
+  <programme start="20220124220000 +0800" stop="20220124223000 +0800" channel="661 有線體育台">
+    <title lang="zh">愛．體育 (766)</title>
+  </programme>
+  <programme start="20220124223000 +0800" stop="20220124233000 +0800" channel="661 有線體育台">
+    <title lang="zh">德甲最精彩(20)</title>
+  </programme>
+  <programme start="20220124233000 +0800" stop="20220125000000 +0800" channel="661 有線體育台">
+    <title lang="zh">英格蘭聯賽盃最精彩(8)</title>
+  </programme>
+  <programme start="20220124080000 +0800" stop="20220124120000 +0800" channel="662 Sports Plus 1">
+    <title lang="zh">由於節目台未能提供節目表:敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124120000 +0800" stop="20220124160000 +0800" channel="662 Sports Plus 1">
+    <title lang="zh">由於節目台未能提供節目表:敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124160000 +0800" stop="20220124200000 +0800" channel="662 Sports Plus 1">
+    <title lang="zh">由於節目台未能提供節目表:敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124200000 +0800" stop="20220125000000 +0800" channel="662 Sports Plus 1">
+    <title lang="zh">由於節目台未能提供節目表:敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124080000 +0800" stop="20220124120000 +0800" channel="664 Sports Plus 2">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124120000 +0800" stop="20220124160000 +0800" channel="664 Sports Plus 2">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124160000 +0800" stop="20220124200000 +0800" channel="664 Sports Plus 2">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124200000 +0800" stop="20220125000000 +0800" channel="664 Sports Plus 2">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124080000 +0800" stop="20220124120000 +0800" channel="665 Sports Plus 3">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124120000 +0800" stop="20220124160000 +0800" channel="665 Sports Plus 3">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124160000 +0800" stop="20220124200000 +0800" channel="665 Sports Plus 3">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124200000 +0800" stop="20220125000000 +0800" channel="665 Sports Plus 3">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220124060000 +0800" stop="20220124130000 +0800" channel="668 賽馬1台">
+    <title lang="zh">此頻道只於賽馬時段提供直播節目</title>
+  </programme>
+  <programme start="20220124130000 +0800" stop="20220125000000 +0800" channel="668 賽馬1台">
+    <title lang="zh">此頻道只於賽馬時段提供直播節目</title>
+  </programme>
+  <programme start="20220124060000 +0800" stop="20220124130000 +0800" channel="669 賽馬2台">
+    <title lang="zh">此頻道只於賽馬時段提供直播節目</title>
+  </programme>
+  <programme start="20220124130000 +0800" stop="20220125000000 +0800" channel="669 賽馬2台">
+    <title lang="zh">此頻道只於賽馬時段提供直播節目</title>
+  </programme>
+</tv>
